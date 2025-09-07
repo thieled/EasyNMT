@@ -22,7 +22,7 @@ setup(
         'numpy',
         'nltk',
         'sentencepiece',
-        'fasttext',
+       # 'fasttext',  <<-- Fix for Windows users
         'protobuf'
     ],
     classifiers=[
